@@ -14,7 +14,7 @@ A simple web application that allows users to check the weather for a specific l
 
 ## Demo
 
-You can see a live demo of the Weather Web App [here]([https://sh17anandan.github.io/WeatherWebsite/](https://shivanandan17.github.io/Weather-Website-Application/)).
+You can see a live demo of the Weather Web App [here](https://shivanandan17.github.io/Weather-Website-Application/).
 
 ## Technologies Used
 
