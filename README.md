@@ -29,7 +29,7 @@ You can see a live demo of the Weather Web App [here]([https://sh17anandan.githu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Sh17anandan/WeatherWebsite.git
+   git clone https://github.com/Shivanandan17/Weather-Website-Application.git
    cd WeatherWebsite
    ```
 
