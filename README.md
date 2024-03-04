@@ -56,5 +56,5 @@ You can see a live demo of the Weather Web App [here](https://sh17anandan.github
 
 ## Contributors
 
-- [Shivanandan D N](https://github.com/Sh17anandan)
+- [Shivanandan D N](https://github.com/Shivanandan17)
 
