@@ -2,8 +2,7 @@
 
 A simple web application that allows users to check the weather for a specific location and view a background image related to that location.
 
-![Ss](https://github.com/Sh17anandan/WeatherWebsite/assets/91018210/d0dae97e-588f-43b0-b813-5d6da6e50e89)
-
+![Screenshot 2024-03-04 131549](https://github.com/shivanandan17/Weather-Website-Application/assets/156572535/97010c09-a8da-4c9b-87e0-15169fd25e1b)
 
 ## Features
 
@@ -15,7 +14,7 @@ A simple web application that allows users to check the weather for a specific l
 
 ## Demo
 
-You can see a live demo of the Weather Web App [here](https://sh17anandan.github.io/WeatherWebsite/).
+You can see a live demo of the Weather Web App [here]([https://sh17anandan.github.io/WeatherWebsite/](https://shivanandan17.github.io/Weather-Website-Application/)).
 
 ## Technologies Used
 
